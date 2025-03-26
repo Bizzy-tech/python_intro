@@ -12,3 +12,6 @@ date1 = date(2005,1,16)
 date2 = date(1998,12,25)
 difference = date1 - date2
 print(difference)
+
+
+# TODO Python dates

@@ -31,7 +31,7 @@ print(total_ages)
 
 new_ages = map(lambda x: x + 1, ages)
 print(list(new_ages))
-
+ # TODO lambda functions
 above_60 = filter(lambda x: x > 60, ages)
 
 print(list(above_60))
