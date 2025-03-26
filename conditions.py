@@ -63,5 +63,5 @@ elif score >= 40 and score <= 44:
     print("D")
 elif score >= 35 and score <= 39:
     print("D-")
-else
+else:
     print("E")
